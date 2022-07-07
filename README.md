@@ -12,3 +12,5 @@ It has an `index.html` page.
 //In order to authenticate a commit on github, use 'git push' and refresh github.
 <p>⚠️ **A cautionary note on committing to the `main` branch**
 It's typically bad practice to commit directly to the `main` branch.</p>
+
+<p>Once a new branch has been created on local device, this needs to be pushed onto github. to do this use: git push -u origin <branch name></p>
