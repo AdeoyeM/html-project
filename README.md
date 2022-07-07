@@ -10,3 +10,5 @@ It has an `index.html` page.
 <p>This is a paragraph, to be confirmed</p>
 
 //In order to authenticate a commit on github, use 'git push' and refresh github.
+<p>⚠️ **A cautionary note on committing to the `main` branch**
+It's typically bad practice to commit directly to the `main` branch.</p>
